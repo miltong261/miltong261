@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Milton Girón </b>👋🏾 </h1>
+<h3 align="left"><b>Hola, soy <span style="color: #F05340;">Milton Girón</span> 👋🏾</b></h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/miltongl)
 
