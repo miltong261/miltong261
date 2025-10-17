@@ -11,6 +11,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
 </p>
 
 ## 🚀 Frontend  
@@ -20,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt.js" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 10px; max-width: 100%;">
+
 </p>
 
 ## 🚀 Bases de Datos  
@@ -51,4 +55,3 @@
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
-
